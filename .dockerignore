@@ -28,3 +28,5 @@ README.md
 *.md
 .vscode
 .idea
+
+data/mysql/db/
